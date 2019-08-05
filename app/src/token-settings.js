@@ -7,9 +7,9 @@ const tokenSettings = [
 ]
 
 export const erc20Settings = [
-  ['_decimals', 'erc20Decimals', 'bignumber'],
-  ['_symbol', 'erc20Symbol', 'string'],
-  ['_name', 'erc20Name', 'string'],
+  ['decimals', 'erc20Decimals', 'bignumber'],
+  ['symbol', 'erc20Symbol', 'string'],
+  ['name', 'erc20Name', 'string'],
   ['totalSupply', 'erc20Supply', 'bignumber'],
 ]
 
